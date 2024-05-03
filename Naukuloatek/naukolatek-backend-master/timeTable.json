@@ -1,0 +1,236 @@
+{
+    "mon": [
+        {
+            "name": "fizyka",
+            "time": "8:15",
+            "duration": 45,
+            "teacher": "Mariusz kruszewski",
+            "room": "202e"
+        },
+        {
+            "name": "aplikacje mobilne",
+            "time": "9:10",
+            "duration": 90,
+            "teacher": "Jacek Cichosz",
+            "room": "201c"
+        },
+        {
+            "name": "php",
+            "time": "11:00",
+            "duration": 90,
+            "teacher": "Mateusz Gawarecki",
+            "room": "206c"
+        },
+        {
+            "name": "j. angielski",
+            "time": "13:00",
+            "duration": 45,
+            "teacher": "Piotr Malinowski",
+            "room": "202e"
+        },
+        {
+            "name": "wychowanie fizyczne",
+            "time": "13:50",
+            "duration": 135,
+            "teacher": "Puczynski Tomasz",
+            "room": "202e"
+        }
+    ],
+    "tues": [
+        {
+            "name": "Zaawansowane WWW",
+            "time": "8:15",
+            "duration": 90,
+            "teacher": "Agnieszka Bańkowska",
+            "room": "202e"
+        },
+        {
+            "name": "j. polski",
+            "time": "10:05",
+            "duration": 45,
+            "teacher": "Katarzyna Polak",
+            "room": "202e"
+        },
+        {
+            "name": "j. polski",
+            "time": "11:00",
+            "duration": 45,
+            "teacher": "Katarzyna Polak",
+            "room": "202e"
+        },
+        {
+            "name": "matematyka",
+            "time": "12:05",
+            "duration": 45,
+            "teacher": "Zuzanna Rogało",
+            "room": "202e"
+        },
+        {
+            "name": "fizyka",
+            "time": "13:00",
+            "duration": 45,
+            "teacher": "Mariusz kruszewski",
+            "room": "202e"
+        },
+        {
+            "name": "matematyka",
+            "time": "13:50",
+            "duration": 45,
+            "teacher": "Zuzanna Rogało",
+            "room": "202e"
+        },
+        {
+            "name": "matematyka",
+            "time": "14:40",
+            "duration": 45,
+            "teacher": "Zuzanna Rogało",
+            "room": "202e"
+        }
+    ],
+    "wed": [
+        {
+            "name": "j. angielski",
+            "time": "8:15",
+            "duration": 45,
+            "teacher": "Piotr Malinowski",
+            "room": "202e"
+        },
+        {
+            "name": "matematyka",
+            "time": "9:10",
+            "duration": 45,
+            "teacher": "Zuzanna Rogało",
+            "room": "202e"
+        },
+        {
+            "name": "matematyka",
+            "time": "10:05",
+            "duration": 45,
+            "teacher": "Zuzanna Rogało",
+            "room": "202e"
+        },
+        {
+            "name": "niemiecki",
+            "time": "11:00",
+            "duration": 45,
+            "teacher": "Dorota Cyrulik",
+            "room": "202e"
+        },
+        {
+            "name": "bhp",
+            "time": "12:05",
+            "duration": 45,
+            "teacher": "Joanna Masłowska",
+            "room": "202e"
+        },
+        {
+            "name": "aplikacje mobilne",
+            "time": "13:00",
+            "duration": 90,
+            "teacher": "Jacek Cichosz",
+            "room": "202c"
+        },
+        {
+            "name": "historia",
+            "time": "14:40",
+            "duration": 45,
+            "teacher": "natalia andrzejewska",
+            "room": "202e"
+        }
+    ],
+    "thu": [
+        {
+            "name": "matematyka",
+            "time": "8:15",
+            "duration": 45,
+            "teacher": "Paweł Ostrowski",
+            "room": "202e"
+        },
+        {
+            "name": "j. polski",
+            "time": "9:10",
+            "duration": 45,
+            "teacher": "Katarzyna Polak",
+            "room": "202e"
+        },
+        {
+            "name": "React",
+            "time": "10:05",
+            "duration": 90,
+            "teacher": "Dawid Syczewski",
+            "room": "202e"
+        },
+        {
+            "name": "j. angielski",
+            "time": "12:05",
+            "duration": 45,
+            "teacher": "Piotr Malinowski",
+            "room": "202e"
+        },
+        {
+            "name": "j. angielski",
+            "time": "13:00",
+            "duration": 45,
+            "teacher": "Piotr Malinowski",
+            "room": "202e"
+        },
+        {
+            "name": "matematyka",
+            "time": "13:50",
+            "duration": 45,
+            "teacher": "Zuzanna Rogało",
+            "room": "202e"
+        },
+        {
+            "name": "INF.03",
+            "time": "14:40",
+            "duration": 90,
+            "teacher": "Jacek Cichosz",
+            "room": "203a"
+        }
+    ],
+    "fri": [
+        {
+            "name": "aplikacje desktopowe",
+            "time": "8:15",
+            "duration": 90,
+            "teacher": "Łukasz szymkowski",
+            "room": "202e"
+        },
+        {
+            "name": "j. polski",
+            "time": "10:05",
+            "duration": 45,
+            "teacher": "Katarzyna Polak",
+            "room": "202e"
+        },
+        {
+            "name": "chemia",
+            "time": "11:00",
+            "duration": 45,
+            "teacher": "Michał Turkowicz",
+            "room": "202e"
+        },
+        {
+            "name": "zajecia z wychowawca",
+            "time": "12:05",
+            "duration": 45,
+            "teacher": "Agnieszka Bańkowska",
+            "room": "202e"
+        },
+        {
+            "name": "geografia",
+            "time": "13:00",
+            "duration": 45,
+            "teacher": "Aneta Bułkowska",
+            "room": "202e"
+        },
+        {
+            "name": "wos",
+            "time": "13:50",
+            "duration": 45,
+            "teacher": "natalia andrzejewska",
+            "room": "202e"
+        }
+    ]
+}

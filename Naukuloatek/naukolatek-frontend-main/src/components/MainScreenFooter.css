@@ -1,0 +1,8 @@
+.mainScreenFooter {
+    width: 533px;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 86.9791%;
+    left: 24.0234375%;
+}

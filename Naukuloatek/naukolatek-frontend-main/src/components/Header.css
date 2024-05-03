@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__lesson {
+    text-align: right;
+}
+
+h1,
+h3,
+h4,
+h5 {
+    font-weight: 400;
+    margin: 0;
+}
+
+h1 {
+    height: 60px;
+    font-size: 48px;
+}
+
+
+h4 {
+    height: 29px;
+}
+
+h3,
+h4 {
+    font-size: 24px;
+}
+
+h5 {
+    font-size: 20px;
+}

@@ -1,0 +1,34 @@
+body {
+  background: #1e1e1e;
+}
+
+.App {
+  top: 1em;
+  max-width: 1024px;
+  max-height: 768px;
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(299deg, #323232 0%, #161E26 0.01%, #272727 100%);
+  margin: auto;
+  color: white;
+  position: relative;
+}
+
+.header {
+  position: absolute;
+  top: 5.859%;
+  right: 7.8125%;
+  left: 7.8125%;
+}
+
+.sensorData {
+  position: relative;
+  top: 73.177083%;
+  color: #FFF;
+  text-align: center;
+  font-family: Rubik;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
